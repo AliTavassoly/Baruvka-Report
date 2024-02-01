@@ -1,0 +1,1091 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.21)  31 JAN 2024 00:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Alico/Desktop/ATA-Report/baruvka_report.tex
+(c:/Users/Alico/Desktop/ATA-Report/baruvka_report.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count183
+\Gm@cntv=\count184
+\c@Gm@tempcnt=\count185
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen147
+)) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count186
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count187
+\leftroot@=\count188
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count189
+\DOTSCASE@=\count190
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
+\dotsspace@=\muskip16
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
+\tag@help=\toks18
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
+\andhelp@=\toks19
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (c:/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks27
+) (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks28
+\verbatim@line=\toks29
+\verbatim@in@stream=\read2
+) (c:/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (c:/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (c:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count198
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (c:/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+) (c:/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box49
+)
+\tc@llx=\dimen158
+\tc@lly=\dimen159
+\tc@urx=\dimen160
+\tc@ury=\dimen161
+Package trimclip Info: Using driver 'tc-xetex.def'.
+ (c:/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-xetex.def
+File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
+))
+\adjbox@Width=\dimen162
+\adjbox@Height=\dimen163
+\adjbox@Depth=\dimen164
+\adjbox@Totalheight=\dimen165
+\adjbox@pwidth=\dimen166
+\adjbox@pheight=\dimen167
+\adjbox@pdepth=\dimen168
+\adjbox@ptotalheight=\dimen169
+ (c:/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count199
+) (c:/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box50
+\sift@deathcycles=\count266
+\@vwid@loff=\dimen170
+\@vwid@roff=\dimen171
+)) (c:/texlive/2021/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/01/20 v3.7 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count267
+\FV@InFile=\read3
+\FV@TabBox=\box51
+\c@FancyVerbLine=\count268
+\FV@StepNumber=\count269
+\FV@OutFile=\write3
+) (c:/texlive/2021/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (c:/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2021/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count270
+\c@ALG@rem=\count271
+\c@ALG@nested=\count272
+\ALG@tlm=\skip55
+\ALG@thistlm=\skip56
+\c@ALG@Lnr=\count273
+\c@ALG@blocknr=\count274
+\c@ALG@storecount=\count275
+\c@ALG@tmpcounter=\count276
+\ALG@tmplength=\skip57
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (c:/texlive/2021/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (c:/texlive/2021/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (c:/texlive/2021/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (c:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen172
+\ar@mcellbox=\box52
+\extrarowheight=\dimen173
+\NC@list=\toks32
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box53
+) (c:/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count277
+\multirow@dima=\skip61
+\bigstrutjot=\dimen174
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count278
+\rotFPtop=\skip62
+\rotFPbot=\skip63
+\rot@float@box=\box54
+\rot@mess@toks=\toks33
+) (c:/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip64
+\enit@outerparindent=\dimen175
+\enit@toks=\toks34
+\enit@inbox=\box55
+\enit@count@id=\count279
+\enitdp@description=\count280
+) (c:/texlive/2021/texmf-dist/tex/latex/enotez/enotez.sty (c:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count281
+\l__color_backend_stack_int=\count282
+\g__color_backend_stack_int=\count283
+\g__graphics_track_int=\count284
+\l__pdf_internal_box=\box56
+\g__pdf_backend_object_int=\count285
+\g__pdf_backend_annotation_int=\count286
+\g__pdf_backend_link_int=\count287
+)) (c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))) (c:/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2021-03-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen176
+\l__xtemplate_tmp_int=\count288
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip65
+)
+Package: enotez 2020/12/13 v0.10c Endnotes for LaTeX2e
+\l__enotez_list_preamble_skip=\skip66
+\l__enotez_list_postamble_skip=\skip67
+\g__enotez_endnote_id_int=\count289
+\g__enotez_endnote_mark_int=\count290
+\c@endnote=\count291
+\g__enotez_list_printed_int=\count292
+\l__enotez_tmpa_int=\count293
+
+Package xtemplate Info: Declaring object type 'enotez-list' taking 1
+(xtemplate)             argument(s) on line 471.
+
+\l__enotez_list_notes_sep_dim=\dimen177
+ (c:/texlive/2021/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e packages (CN)
+ (c:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count294
+) (c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))) (c:/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count295
+\mult@box=\box57
+\multicol@leftmargin=\dimen178
+\c@unbalance=\count296
+\c@collectmore=\count297
+\doublecol@number=\count298
+\multicoltolerance=\count299
+\multicolpretolerance=\count300
+\full@width=\dimen179
+\page@free=\dimen180
+\premulticols=\dimen181
+\postmulticols=\dimen182
+\multicolsep=\skip68
+\multicolbaselineskip=\skip69
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen183
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@gfirstbox=\box62
+\mult@firstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\c@minrows=\count301
+\c@columnbadness=\count302
+\c@finalcolumnbadness=\count303
+\last@try=\dimen184
+\multicolovershoot=\dimen185
+\multicolundershoot=\dimen186
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
+\mc@col@check@num=\count304
+) (c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (c:/texlive/2021/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks35
+\footnotemargin=\dimen187
+\c@pp@next@reset=\count305
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+) (c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen188
+\captionmargin@=\dimen189
+\captionwidth=\dimen190
+\caption@tempdima=\dimen191
+\caption@indent=\dimen192
+\caption@parindent=\dimen193
+\caption@hangindent=\dimen194
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count306
+\c@continuedfloat=\count307
+Package caption Info: rotating package is loaded.
+) (c:/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks36
+\float@box=\box103
+\@float@everytoks=\toks37
+\@floatcapt=\box104
+) (c:/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count309
+\c@subtable=\count310
+) (c:/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box105
+\beforetitleunit=\skip70
+\aftertitleunit=\skip71
+\ttl@plus=\dimen195
+\ttl@minus=\dimen196
+\ttl@toksa=\toks38
+\titlewidth=\dimen197
+\titlewidthlast=\dimen198
+\titlewidthfirst=\dimen199
+) (c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen256
+\Hy@linkcounter=\count311
+\Hy@pagecounter=\count312
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (c:/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count313
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count314
+ (c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen257
+ (c:/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count315
+\Field@Width=\dimen258
+\Fld@charsize=\dimen259
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (c:/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count316
+\c@Item=\count317
+\c@Hfootnote=\count318
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+ (c:/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box106
+\c@Hy@AnnotLevel=\count319
+\HyField@AnnotCount=\count320
+\Fld@listcount=\count321
+\c@bookmark@seq@number=\count322
+ (c:/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+) (c:/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip72
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+Package hyperref Info: Option `plainpages' set `false' on input line 26.
+
+
+Package hyperref Warning: Option `pdfpagelabels' has already been used,
+(hyperref)                setting the option has no effect on input line 26.
+
+(c:/texlive/2021/texmf-dist/tex/latex/oberdiek/hypcap.sty
+Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
+) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2020/05/17 v23.1 Persian typesetting in XeLaTeX
+ (c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count323
+\l__fontspec_language_int=\count324
+\l__fontspec_strnum_int=\count325
+\l__fontspec_tmp_int=\count326
+\l__fontspec_tmpa_int=\count327
+\l__fontspec_tmpb_int=\count328
+\l__fontspec_tmpc_int=\count329
+\l__fontspec_em_int=\count330
+\l__fontspec_emdef_int=\count331
+\l__fontspec_strong_int=\count332
+\l__fontspec_strongdef_int=\count333
+\l__fontspec_tmpa_dim=\dimen260
+\l__fontspec_tmpb_dim=\dimen261
+\l__fontspec_tmpc_dim=\dimen262
+ (c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
+\XePersian@i=\count334
+\XePersian@y=\count335
+\XePersian@m=\count336
+\XePersian@d=\count337
+\XePersian@latini=\count338
+\XePersian@persiani=\count339
+\XePersian@latinii=\count340
+\XePersian@persianii=\count341
+\XePersian@latiniii=\count342
+\XePersian@persianiii=\count343
+\XePersian@latiniv=\count344
+\XePersian@persianiv=\count345
+\XePersian@latinv=\count346
+\XePersian@persianv=\count347
+\XePersian@latinvi=\count348
+\XePersian@persianvi=\count349
+\XePersian@latinvii=\count350
+\XePersian@persianvii=\count351
+\XePersian@latinviii=\count352
+\XePersian@persianviii=\count353
+\XePersian@latinix=\count354
+\XePersian@persianix=\count355
+\XePersian@latinx=\count356
+\XePersian@persianx=\count357
+\XePersian@latinxi=\count358
+\XePersian@persianxi=\count359
+\XePersian@latinxii=\count360
+\XePersian@persianxii=\count361
+\XePersian@persianxiii=\count362
+\XePersian@temp=\count363
+\XePersian@temptwo=\count364
+\XePersian@tempthree=\count365
+\XePersian@yModHundred=\count366
+\XePersian@thirtytwo=\count367
+\XePersian@dn=\count368
+\XePersian@sn=\count369
+\XePersian@mminusone=\count370
+) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.sty
+Package: xepersian-mathsdigitspec 2018/12/16 v1.1.7 Unicode Persian maths digits in XeLaTeX
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2020/05/17 v36.3 Bidirectional typesetting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2020 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v36.3, 2020/05/17
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/persiantex/bidi/issues
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(c:/texlive/2021/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2020/05/13 v2 Programming tools for bidi package
+\@bidi@envbody=\toks39
+\@bidi@emptytoks=\toks40
+\bidi@poscount=\count371
+
+
+Package biditools Warning: Patching `\enddocument' failed on input line 916.
+
+\bidi@tempcountb=\count372
+\bidi@temptoksa=\toks41
+\bidi@temptoksb=\toks42
+\bidi@dummies=\count373
+\bidi@are@these@correct=\toks43
+\bidi@toks@lista=\toks44
+\bidi@toks@listb=\toks45
+\bidi@stack@length=\count374
+\bidi@empty@stack=\toks46
+\bidi@looprepeat@depth=\count375
+) (c:/texlive/2021/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ (c:/texlive/2021/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+\c@abspage=\count376
+Package zref Info: New property: abspage on input line 66.
+)
+\@bidi@copyins@=\insert252
+ (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' for XeTeX engine
+\bidi@n@everypar=\toks47
+\bidi@column@check@number=\count377
+ (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX engine
+\c@footdir@label=\count378
+\footdir@toks=\toks48
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
+File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard article class for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/amsthm-xetex-bidi.def
+File: amsthm-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for amsthm package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/caption-xetex-bidi.def
+File: caption-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for caption package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/caption3-xetex-bidi.def
+File: caption3-xetex-bidi.def 2013/04/01 v0.1 bidi adaptations for caption3 package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package for XeTeX engine
+LaTeX Info: Redefining \color on input line 47.
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package for XeTeX engine
+LaTeX Info: Redefining \color on input line 46.
+LaTeX Info: Redefining \bidicolor on input line 89.
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/float-xetex-bidi.def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
+File: hyperref-xetex-bidi.def 2018/11/11 v1.1 bidi adaptations for hyperref package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
+File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/array-xetex-bidi.def
+File: array-xetex-bidi.def 2015/11/07 v0.3 bidi adaptations for array package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/multicol-xetex-bidi.def
+File: multicol-xetex-bidi.def 2019/06/14 v1.2 bidi adaptations for multicol package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/rotating-xetex-bidi.def
+File: rotating-xetex-bidi.def 2013/05/22 v0.2 bidi adaptations for rotating package for XeTeX engine
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/tc-xetex-bidi.def
+File: tc-xetex-bidi.def 2014/07/08 v0.1 bidi adaptations for Clipping driver for XeTeX engine
+)) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the last package loaded
+)
+\bidi@digits=\count379
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2020 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v23.1, 2020/05/17
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/persiantex/xepersian/issues
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+\xepersian@tcl=\count380
+\xepersian@ilg=\dimen263
+\xepersian@strutilg=\dimen264
+(c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is the last package loaded
+) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian package
+) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/enumitem-xepersian.def
+File: enumitem-xepersian.def 2017/09/06 v0.1 adaptations for enumitem package
+) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.def
+File: hyperref-xepersian.def 2015/02/02 v0.6 bilingual captions for hyperref package
+) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/article-xepersian.def
+File: article-xepersian.def 2010/07/25 v0.2 adaptations for standard article class
+) (c:/texlive/2021/texmf-dist/tex/xelatex/bidi/extrafootnotefeatures-xetex-bidi.def
+File: extrafootnotefeatures-xetex-bidi.def 2018/10/11 v1.7 bidi extra footnote features for XeTeX engine
+\footmarkwidth=\skip73
+\footinsdim=\skip74
+\footinsv@r=\insert251
+\footinsv@l=\insert250
+\@mpfootinsv@r=\insert249
+\@mpfootinsv@l=\insert248
+\m@m@k=\count381
+\m@m@h=\dimen265
+\m@mipn@skip=\skip75
+) (c:/texlive/2021/texmf-dist/tex/xelatex/xepersian/extrafootnotefeatures-xepersian.def
+File: extrafootnotefeatures-xepersian.def 2012/01/01 v0.2 footnote macros for extrafootnotefeatures option of xepersian package
+)
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalicFont={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromanslant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+
+)
+
+Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
+(fontspec)             Niloofar' with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Scale=1.09,Extension=.ttf,Path=fonts/,BoldFont=XB
+(fontspec)             NiloofarBd,ItalicFont=XB NiloofarIt,BoldItalicFont=XB
+(fontspec)             NiloofarBdIt].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.09]"[fonts/XB
+(fontspec)             Niloofar.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.09]"[fonts/XB
+(fontspec)             NiloofarBd.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.09]"[fonts/XB
+(fontspec)             NiloofarIt.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1.09]"[fonts/XB
+(fontspec)             NiloofarBdIt.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 11.93546pt on input line 77.
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,Scale=1].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->s*[1]"Times
+(fontspec)             New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1]"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"Times
+(fontspec)             New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+
+LaTeX Info: Redefining \latinfont on input line 79.
+\c@proposition=\count382
+\c@theory=\count383
+\c@lemma=\count384
+\c@corollary=\count385
+\c@system=\count386
+
+Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
+(fontspec)             Niloofar' with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Scale=0.9,Extension=.ttf,Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[0.9]"[fonts/XB
+(fontspec)             Niloofar.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 111.
+ (./baruvka_report.aux)
+\openout1 = `baruvka_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 111.
+ (c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=28.45274pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2021/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: hypcap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 111.
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (c:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count387
+)
+LaTeX Info: Redefining \ref on input line 111.
+LaTeX Info: Redefining \pageref on input line 111.
+LaTeX Info: Redefining \nameref on input line 111.
+ (./baruvka_report.out) (./baruvka_report.out)
+\@outlinefile=\write4
+\openout4 = `baruvka_report.out'.
+
+File: sharif-logo.png Graphic file (type bmp)
+<sharif-logo.png>
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 11.93546pt on input line 118.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 18.83513pt on input line 123.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 18.83513pt on input line 124.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 125.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 15.69594pt on input line 127.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 15.69594pt on input line 128.
+ [1
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=28.45274pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@definition=\count388
+\c@theorem=\count389
+ (./baruvka_report.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write5
+\openout5 = `baruvka_report.toc'.
+
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 159.
+File: resources/mst.svg.png Graphic file (type bmp)
+<resources/mst.svg.png>
+ [2]
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 13.07996pt on input line 186.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 13.07996pt on input line 186.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
+[][]
+ []
+
+[3]
+File: resources/input-graph.png Graphic file (type bmp)
+<resources/input-graph.png>
+File: resources/step1.png Graphic file (type bmp)
+<resources/step1.png>
+File: resources/step2.png Graphic file (type bmp)
+<resources/step2.png>
+ [4]
+File: resources/step3.png Graphic file (type bmp)
+<resources/step3.png>
+File: resources/output-mst.png Graphic file (type bmp)
+<resources/output-mst.png>
+ [5]
+Overfull \hbox (10.69553pt too wide) in paragraph at lines 251--251
+[][]            \TU/lmtt/m/n/10.95 Find the connected components of F and assign to each vertex its component[] []
+ []
+
+
+Overfull \hbox (16.44427pt too wide) in paragraph at lines 270--270
+[][]                    \TU/lmtt/m/n/10.95 (weight(edge1) = weight(edge2) and tie-breaking-rule(edge1, edge2))[] []
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 284--298
+[][]
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 327--330
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--330
+[][]
+ []
+
+[8] (./baruvka_report.bbl
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 5.
+) [9] (./baruvka_report.aux)
+Package rerunfilecheck Info: File `baruvka_report.out' has not changed.
+(rerunfilecheck)             Checksum: 0921C04573D9E96D86190740ED255361;1673.
+ ) 
+Here is how much of TeX's memory you used:
+ 20657 strings out of 476919
+ 398746 string characters out of 5825424
+ 842954 words of memory out of 5000000
+ 40212 multiletter control sequences out of 15000+600000
+ 409448 words of font info for 88 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 97i,7n,117p,2985b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on baruvka_report.xdv (10 pages, 97596 bytes).

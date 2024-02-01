@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{c1}
+L.~Huang, Dai, ``Equipping the barzilai--borwein method with the two
+  dimensional quadratic termination property,'' {\em SIAM}, 2021.
+
+\bibitem{c2}
+G.~Zhou, Dai, ``Gradient methods with adaptive step-sizes,'' {\em Comput. Optim
+  Appl.}, 2006.
+
+\bibitem{c3}
+Y.~Fletcher, Teo, ``On the barzilai--borwein method, in optimization and
+  control with applications,'' {\em Springer, Boston}, 2005.
+
+\end{thebibliography}
